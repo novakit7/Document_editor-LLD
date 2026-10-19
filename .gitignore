@@ -1,0 +1,11 @@
+
+# CMake build output
+build/
+
+# Compiled executables and object files
+*.exe
+*.o
+*.obj
+
+# VS Code workspace settings
+.vscode/
